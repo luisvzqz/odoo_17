@@ -1,0 +1,13 @@
+
+$o-user-color-palette: map-merge($o-user-color-palette, o-map-omit((
+    'o-color-1': #02afa2,
+    'o-color-2': #9297a0,
+    'o-color-3': #F4F5F6,
+    'o-color-4': #FFFFFF,
+    'o-color-5': #02837A,
+    'header-sales_two': 4,
+    'header-sales_two-custom': 'NULL',
+    'menu': 5,
+    'menu-custom': 'NULL',
+    // -- hook --
+)));
